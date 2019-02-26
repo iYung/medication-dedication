@@ -1,0 +1,6 @@
+[submodule "med-ded-server"]
+	path = med-ded-server
+	url = https://github.com/kmstumpf/med-ded-server.git
+[submodule "med-ded-client-app"]
+	path = med-ded-client-app
+	url = https://github.com/iYung/med-ded-client-app.git
